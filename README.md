@@ -132,7 +132,7 @@ Please consider this work a reflection of my calibre, not a limitation of my ski
 
 ## 🚀 Notable Projects
 
-### [Hybrid Cloud SaaS: Three-tier web application](https://github.com/madhur-taneja/Hybrid-Cloud-SaaS-Three-tier-web-application)
+### [Hybrid Cloud SaaS: Three-tier web application](https://github.com/madhur-taneja/Hybrid-Cloud-Projects)
 _A blueprint for hybrid cloud architecture serving a scalable, cost-effective three-tier application. Built during Udacity coursework._
 
 ### [Udapeople](https://github.com/madhur-taneja/Udapeople)
@@ -144,10 +144,10 @@ _A website connecting shopkeepers and customers for buying and selling products 
 ### [Neighborhood Map](https://github.com/madhur-taneja/Neighborhood-Map)
 _An interactive map of a neighborhood showing popular local eating joints with their ratings, utilizing AJAX and third-party APIs. Built at Chitkara University._
 
-### [Classic Arcade Game Clone](https://github.com/madhur-taneja/Classic-Arcade-Game-Clone)
+### [Classic Arcade Game Clone](https://github.com/madhur-taneja/Front-End-Projects/tree/master/Project%206%20(Classic%20Arcade%20Game%20Clone))
 _Recreated the classic arcade game Frogger using a provided game engine and visual assets, implementing player and enemy entities. Built at Chitkara University._
 
-### [Website Optimization](https://github.com/madhur-taneja/Website-Optimization)
+### [Website Optimization](https://github.com/madhur-taneja/Front-End-Projects/tree/master/Project%207%20(Website%20Optimization))
 _Identified and optimized performance issues in web applications to enhance user experience across devices. Built at Chitkara University._
 
 ---

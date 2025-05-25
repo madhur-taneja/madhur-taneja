@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <b>Software Engineer | Module Lead at TEKsystems</b>
+  <b>Full Stack Web Developer | Module Lead at TEKsystems</b>
   &nbsp;|&nbsp;
   <img src="https://komarev.com/ghpvc/?username=madhur-taneja&color=blue" alt="Profile Views" style="vertical-align: middle;"/>
 </p>
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and Module Lead at TEKsystems in the Transformation, DevOps & Cloud vertical, and I'm passionate about solving complex problems & delivering high-quality solutions. My expertise spans across full-stack development, cloud computing, DevOps, and scalable architecture. I thrive in collaborative environments and am always eager to learn new technologies.. 
+Hi! I'm Madhur, a Software Engineer and Module Lead at TEKsystems in the Transformation, DevOps & Cloud vertical, and I'm passionate about solving complex problems & delivering high-quality solutions. My expertise spans across full-stack development, cloud computing, DevOps, and scalable architecture. I thrive in collaborative environments and am always eager to learn new technologies..
 
-I'm a Computer Science Engineering (CSE) graduate from Chitkara University and a former member of the University Coding Academy (UCA) batch. Also, a Nanodegree graduate and working as a Mentor for Front-End Web Developer Nanodegree (FEND), Cloud Engineer Nanodegree (CDEND), Cloud DevOps Nanodegree (CDND), and Hybrid Cloud Nanodegree (HCND) at Udacity. 
+I'm a Computer Science Engineering (CSE) graduate from Chitkara University and a former member of the University Coding Academy (UCA) batch. Also, a Nanodegree graduate and working as a Mentor for Front-End Web Developer Nanodegree (FEND), Cloud Engineer Nanodegree (CDEND), Cloud DevOps Nanodegree (CDND), and Hybrid Cloud Nanodegree (HCND) at Udacity.
 
 Please consider this work a reflection of my calibre, not a limitation of my skillset
 
@@ -41,41 +41,89 @@ Please consider this work a reflection of my calibre, not a limitation of my ski
 <tr>
   <td valign="top" width="50%">
 
-### 🌍 Domains
+### 🧑‍💻 Programming Languages
 
-**Full Stack Web Development**
-- **Frontend:** HTML, CSS, JavaScript, Typescript, jQuery, Bootstrap, Angular, ReactJS
-- **Backend:** NodeJS, ExpressJS, SpringBoot, GraphQL
-- **APIs:** REST, SOAP
-- **Databases:** MongoDB, DynamoDB, PostgreSQL
-
-**Cloud Engineer**
-- **Cloud Platforms:** AWS Services
-
-**Hybrid Cloud**
-- **Platforms:** Nutanix Clusters
-
-**Cloud DevOps**
-- **CI/CD & Automation:** CircleCI, Jenkins
+- **Proficient:**  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+- **Familiar:**  
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 
   </td>
   <td valign="top" width="50%">
 
-### 🧑‍💻 Programming Languages
+### 🛠 Tools
 
-- **Proficient:** C, C++, Java, JavaScript  
-- **Familiar:** Basics of Python
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/ELK Stack-005571?style=flat&logo=elasticstack&logoColor=white" alt="ELK"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat&logo=docker&logoColor=white" alt="DockerSwarm"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Zuul-333366?style=flat" alt="Zuul"/>
+<img src="https://img.shields.io/badge/Eureka-23C7C7?style=flat" alt="Eureka"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Alert%20Manager-ff9800?style=flat" alt="Alert Manager"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" alt="Vim"/>
+<img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white" alt="Vagrant"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white" alt="JIRA"/>
+<img src="https://img.shields.io/badge/IDE-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="IDEs"/>
 
----
+  </td>
+</tr>
+<tr>
+  <td colspan="2" valign="top">
 
-### 🛠 Tools & Platforms
+### 🌍 Domains
 
-- **Version Control & Collaboration:** Git, JIRA
-- **Containerization & Orchestration:** Docker, DockerSwarm, Kubernetes, Vagrant, Ansible
-- **Monitoring & Logging:** ELK-Stack
-- **Service Discovery & CI/CD:** Zuul, Eureka, CircleCI, Jenkins
-- **Editors & IDEs:** Vim, Various IDEs
-- **API Development & Testing:** Postman
+- **Front-End:**  
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61dafb" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=rxjs&logoColor=white" alt="RxJS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white" alt="Material-UI"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+
+- **Back-End:**  
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="SpringBoot"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="ExpressJS"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/SOAP-00274D?style=flat" alt="SOAP API"/>
+
+- **Databases:**  
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+
+- **Cloud:**  
+  <b>Public:</b> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <b>Hybrid:</b> <img src="https://img.shields.io/badge/Nutanix-224099?style=flat&logo=nutanix&logoColor=white" alt="Nutanix"/>
+
+- **System Design:**  
+  <img src="https://img.shields.io/badge/Monolithic-808080?style=flat&logo=server&logoColor=white" alt="Monolithic"/>
+  <img src="https://img.shields.io/badge/Microservices-FF9800?style=flat&logo=microgen&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-4B8BBE?style=flat" alt="Design Patterns"/>
+
+- **DevOps:**  
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white" alt="CircleCI"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Workflows"/>
 
   </td>
 </tr>
@@ -132,7 +180,7 @@ Please consider this work a reflection of my calibre, not a limitation of my ski
 
 ## 🚀 Notable Projects
 
-### [Hybrid Cloud SaaS: Three-tier web application](https://github.com/madhur-taneja/Hybrid-Cloud-Projects)
+### [Hybrid Cloud SaaS: Three-tier web application](https://github.com/madhur-taneja/Hybrid-Cloud-SaaS-Three-tier-web-application)
 _A blueprint for hybrid cloud architecture serving a scalable, cost-effective three-tier application. Built during Udacity coursework._
 
 ### [Udapeople](https://github.com/madhur-taneja/Udapeople)
@@ -144,20 +192,26 @@ _A website connecting shopkeepers and customers for buying and selling products 
 ### [Neighborhood Map](https://github.com/madhur-taneja/Neighborhood-Map)
 _An interactive map of a neighborhood showing popular local eating joints with their ratings, utilizing AJAX and third-party APIs. Built at Chitkara University._
 
-### [Classic Arcade Game Clone](https://github.com/madhur-taneja/Front-End-Projects/tree/master/Project%206%20(Classic%20Arcade%20Game%20Clone))
+### [Classic Arcade Game Clone](https://github.com/madhur-taneja/Classic-Arcade-Game-Clone)
 _Recreated the classic arcade game Frogger using a provided game engine and visual assets, implementing player and enemy entities. Built at Chitkara University._
 
-### [Website Optimization](https://github.com/madhur-taneja/Front-End-Projects/tree/master/Project%207%20(Website%20Optimization))
+### [Website Optimization](https://github.com/madhur-taneja/Website-Optimization)
 _Identified and optimized performance issues in web applications to enhance user experience across devices. Built at Chitkara University._
 
 ---
 
 ## 🌐 Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/madhur-taneja/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/madhur-taneja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-taneja/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://www.medium.com/@madhur.taneja)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanejamadhur96@gmail.com)
 
 ---
 
+<!--
+Fun facts, hobbies, or personal motto can go here if you wish to add them in the future.
+-->
 <!--
 Fun facts, hobbies, or personal motto can go here if you wish to add them in the future.
 -->

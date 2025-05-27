@@ -25,15 +25,16 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-Hi! I'm Madhur, a Software Engineer and Module Lead at TEKsystems in the Transformation, DevOps & Cloud vertical, and I'm passionate about solving complex problems & delivering high-quality solutions. My expertise spans across full-stack development, cloud computing, DevOps, and scalable architecture. I thrive in collaborative environments and am always eager to learn new technologies..
+A Software Development Engineer and a Module Lead at TEKsystems in the Transformation, DevOps & Cloud vertical, and I'm passionate about solving complex problems & delivering high-quality solutions.
 
-I'm a Computer Science Engineering (CSE) graduate from Chitkara University and a former member of the University Coding Academy (UCA) batch. Also, a Nanodegree graduate and working as a Mentor for Front-End Web Developer Nanodegree (FEND), Cloud Engineer Nanodegree (CDEND), Cloud DevOps Nanodegree (CDND), and Hybrid Cloud Nanodegree (HCND) at Udacity.
+I'm a Computer Science Engineering (CSE) graduate from Chitkara University and a former University Coding Academy (UCA) batch member. Also, a Nanodegree graduate and working as a Mentor for Front-End Web Developer Nanodegree (FEND), Cloud Engineer Nanodegree (CDEND), Cloud DevOps Nanodegree (CDND), and Hybrid Cloud Nanodegree (HCND) at Udacity.
 
-Please consider this work a reflection of my calibre, not a limitation of my skillset
+Please consider this work as a reflection of my calibre, not a limitation of my skillset
 
 ---
 
-## 🛠 Skills
+<details>
+<summary><strong>🛠 Skills</strong></summary>
 
 <div align="center">
 
@@ -130,10 +131,12 @@ Please consider this work a reflection of my calibre, not a limitation of my ski
 </table>
 
 </div>
+</details>
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary><strong>📊 GitHub Stats</strong></summary>
 
 ### General
 
@@ -176,27 +179,45 @@ Please consider this work a reflection of my calibre, not a limitation of my ski
   </a>
 </p>
 
+</details>
+
 ---
 
-## 🚀 Notable Projects
+<details>
+<summary><strong>🚀 Notable Projects</strong></summary>
 
-### [Hybrid Cloud SaaS: Three-tier web application](https://github.com/madhur-taneja/Hybrid-Cloud-SaaS-Three-tier-web-application)
-_A blueprint for hybrid cloud architecture serving a scalable, cost-effective three-tier application. Built during Udacity coursework._
+<div align="center">
 
-### [Udapeople](https://github.com/madhur-taneja/Udapeople)
-_A CI/CD pipeline for a web application deployed on AWS, supporting continuous delivery processes using CircleCI. Built during Udacity coursework._
+<table>
+  <tr>
+    <td align="center" width="250px">
+      <a href="https://github.com/madhur-taneja/Hybrid-Cloud-Projects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Hybrid-Cloud-Projects&theme=dark" alt="Hybrid Cloud Projects"/>
+      </a>
+    </td>
+    <td align="center" width="250px">
+      <a href="https://github.com/madhur-taneja/Udapeople">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Udapeople&theme=dark" alt="Udapeople"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250px">
+      <a href="https://github.com/madhur-taneja/Local-Deals">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Local-Deals&theme=dark" alt="Local Deals"/>
+      </a>
+    </td>
+    <td align="center" width="250px">
+      <a href="https://github.com/madhur-taneja/Neighborhood-Map">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Neighborhood-Map&theme=dark" alt="Neighborhood Map"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### [Local Deals](https://github.com/madhur-taneja/Local-Deals)
-_A website connecting shopkeepers and customers for buying and selling products online. Built using the MEAN stack at Chitkara University._
+</div>
 
-### [Neighborhood Map](https://github.com/madhur-taneja/Neighborhood-Map)
-_An interactive map of a neighborhood showing popular local eating joints with their ratings, utilizing AJAX and third-party APIs. Built at Chitkara University._
-
-### [Classic Arcade Game Clone](https://github.com/madhur-taneja/Classic-Arcade-Game-Clone)
-_Recreated the classic arcade game Frogger using a provided game engine and visual assets, implementing player and enemy entities. Built at Chitkara University._
-
-### [Website Optimization](https://github.com/madhur-taneja/Website-Optimization)
-_Identified and optimized performance issues in web applications to enhance user experience across devices. Built at Chitkara University._
+</details>
 
 ---
 
@@ -209,9 +230,6 @@ _Identified and optimized performance issues in web applications to enhance user
 
 ---
 
-<!--
-Fun facts, hobbies, or personal motto can go here if you wish to add them in the future.
--->
 <!--
 Fun facts, hobbies, or personal motto can go here if you wish to add them in the future.
 -->

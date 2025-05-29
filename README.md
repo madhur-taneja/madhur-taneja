@@ -192,24 +192,24 @@ Please consider this work as a reflection of my calibre, not a limitation of my 
   <tr>
     <td align="center" width="250px">
       <a href="https://github.com/madhur-taneja/Hybrid-Cloud-Projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Hybrid-Cloud-Projects&theme=dark" alt="Hybrid Cloud Projects"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Hybrid-Cloud-Projects&theme=dark&cache_bust=1" alt="Hybrid Cloud Projects"/>
       </a>
     </td>
     <td align="center" width="250px">
       <a href="https://github.com/madhur-taneja/Udapeople">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Udapeople&theme=dark" alt="Udapeople"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Udapeople&theme=dark&cache_bust=1" alt="Udapeople"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="250px">
       <a href="https://github.com/madhur-taneja/Local-Deals">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Local-Deals&theme=dark" alt="Local Deals"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Local-Deals&theme=dark&cache_bust=1" alt="Local Deals"/>
       </a>
     </td>
     <td align="center" width="250px">
       <a href="https://github.com/madhur-taneja/Neighborhood-Map">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Neighborhood-Map&theme=dark" alt="Neighborhood Map"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=madhur-taneja&repo=Neighborhood-Map&theme=dark&cache_bust=1" alt="Neighborhood Map"/>
       </a>
     </td>
   </tr>
